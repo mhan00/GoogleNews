@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/drawable/ic_save_black_24dp.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/drawable/ic_thumb_down_24dp.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.12817028985507245" />
+        <entry key="app/src/main/res/layout/fragment_save.xml" value="3.326388414381231" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/saved_news_item.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/layout/search_news_item.xml" value="0.11170212765957446" />
+        <entry key="app/src/main/res/layout/swipe_news_item.xml" value="0.3521025509838878" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.2296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
